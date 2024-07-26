@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "title": "Walmart"
@@ -20,3 +21,10 @@
     "title": "Best Buy"
   },
 ]
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
