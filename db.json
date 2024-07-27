@@ -34,9 +34,23 @@
     "title": "White Paint Bucket",
     "quantity": 1,
     "price": 38.98
-  },  
+  },
   {
     "id": 6,
+    "listId": 4,
+    "title": "Laptop Cushion",
+    "quantity": 1,
+    "price": 4.99
+  },    
+  {
+    "id": 7,
+    "listId": 4,
+    "title": "Overly Expensive Wall art",
+    "quantity": 1,
+    "price": 564.47
+  },      
+  {
+    "id": 8,
     "listId": 5,
     "title": "Flatscreen TV",
     "quantity": 1,
