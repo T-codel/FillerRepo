@@ -1,1 +1,49 @@
-
+{
+  "items": [
+  {
+    "id": 1,
+    "listId": 1,
+    "title": "Washing pods",
+    "quantity": 1,
+    "price": 6.99
+  },
+  {
+    "id": 2,
+    "listId": 1,
+    "title": "Rice",
+    "quantity": 1,
+    "price": 0.99
+  },
+  {
+    "id": 3,
+    "listId": 2,
+    "title": "Lamp",
+    "quantity": 1,
+    "price": 19.99
+  },
+  {
+    "id": 4,
+    "listId": 3,
+    "title": "Birthday Cake",
+    "quantity": 1,
+    "price": 8.99
+  },
+  {
+    "id": 5,
+    "listId": 4,
+    "title": "White Paint Bucket",
+    "quantity": 1,
+    "price": 38.98
+  }  
+  {
+    "id": 6,
+    "listId": 5,
+    "title": "Flatscreen TV",
+    "quantity": 1,
+    "price": 219.00
+  }     
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
